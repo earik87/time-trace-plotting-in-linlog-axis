@@ -38,11 +38,3 @@ The given codes are developed in Python. For this you need to have Python in you
 ## Built With
 
 * [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/)
-
-## Accessing To The Codes
-
-There is lately a bug in github that preview of the codes (with .ipynb extension) is not possible. In case you have this issue, the workaround to see the codes is using the links below;
-
-https://nbviewer.jupyter.org/github/earik87/linear-logarithmic-axis-plotting/blob/master/Plot_linlogtrace_fromdataframe.ipynb
-
-https://nbviewer.jupyter.org/github/earik87/linear-logarithmic-axis-plotting/blob/master/Plot_linlogtrace_frommatfile.ipynb
