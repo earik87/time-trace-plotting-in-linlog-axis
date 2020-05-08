@@ -2,6 +2,12 @@
 
 This project provides codes for plotting time-resolved data with linear-logarithmic axis in python. 
 
+## About Scripts
+
+You will see in the repo that there are two scripts. 
+
+This one `Plot_linlogtrace_fromdataframe.ipynb` can import from .csv file, whereas the other script `Plot_linlogtrace_frommatfile.ipynb` can import from .mat file. Except this, they are both doing the same thing. Choose one you like to work with. At the end of every script, there is a preview of plot. 
+
 ## Introduction to the problem - Why Python?
 
 Time-resolved spectroscopy is a common method to reveal time-dependent events in nature. Depending on the method, time-axis may involve a very wide time-scale which is difficult to plot it linear. If it is plotted linear, then fast events will be invisible. If it is plotted logarithmic, then time-axis has to start from a value which is bigger than zero (0). In order to show all the time-scale in one axis, the plot has to be divided; fast time-scale would be plotted in linear, slow time-scale would be plotted in logarithmic. Initially a few softwares were used to solve this problem, then Python was selected among them due to its advantages over the others.
