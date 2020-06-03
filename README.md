@@ -47,4 +47,4 @@ The given codes are developed in Python. For this you need to have Python in you
 
 ## Acknowledgment
 
-Thanks to Patrick Konold, he gave the idea to write such a code in Python.
+Thanks to Patrick Konold, he gave the idea for this project.
