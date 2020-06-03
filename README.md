@@ -15,13 +15,13 @@ Time-resolved spectroscopy is a common method to reveal time-dependent events in
 #### Origin. 
 
 Disadvantages; 
-  - It is not free to use, license is requried. 
+  - It is not free to use, license is required. 
   - It takes a long time to plot data. 
 
 #### Matlab. 
  
 Disadvantages; 
-  - It is not free to use, license is requried.
+  - It is not free to use, license is required.
   - No axis-divider function is available, therefore two seperate graphs needs to be created and plotted next to each other. This brings complications.
 
 #### Python.
