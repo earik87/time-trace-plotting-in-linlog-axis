@@ -1,4 +1,4 @@
-# linear-logarithmic-axis-plotting
+# Plotting time-resolved data (from femtosecond to millisecond) with linear - logarithmic axis.
 
 This project provides codes for plotting time-resolved data with linear-logarithmic axis in python. 
 
