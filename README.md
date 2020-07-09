@@ -6,7 +6,7 @@ This project provides codes for plotting time-resolved data with linear-logarith
 
 You will see in the repo that there are two scripts. 
 
-This one `Plot_linlogtrace_fromdataframe.ipynb` can import from .csv file, whereas the other script `Plot_linlogtrace_frommatfile.ipynb` can import from .mat file. Except this, they are both doing the same thing. Choose one you like to work with. At the end of every script, there is a preview of plot. 
+This one `Plot_linlogtrace_from_csv.ipynb` can import from .csv file, whereas the other script `Plot_linlogtrace_from_matfile.ipynb` can import from .mat file. Except this, they are both doing the same thing. Choose one you like to work with. At the end of every script, there is a preview of plot. 
 
 ## Introduction to the problem - Why Python?
 
