@@ -1,3 +1,6 @@
+# Archived project. No maintenance.
+This project is not maintained anymore. You may fork and make your changes, freely.
+
 # Plotting time-resolved data (from femtosecond to millisecond) with linear - logarithmic axis.
 
 This project provides codes for plotting time-resolved data with linear-logarithmic axis in python. 
